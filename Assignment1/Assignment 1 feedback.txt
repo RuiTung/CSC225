@@ -1,0 +1,45 @@
+----- Question 1 ----- 
+7 marks for correct ordering of functions 
+1 mark for no transcription errors
+
+----- Question 2 ----- 
+2 marks for correct order of growth for part a 
+2 marks for correct order of growth for part b 
+1 mark for correct order of growth for part c 
+2 marks for minimal explanation of parts a b c 
+
+----- Question 3 ----- 
+2 marks for correct base case reasoning 
+2 marks for correct induction hypothesis statement 
+2 marks for correctly using induction hypothesis 
+3 marks for correct algebra except for one error or omission 
+
+----- Question 4 ----- 
+2 marks for correct base case reasoning 
+2 marks for correct induction hypothesis statement 
+2 marks for correctly using induction hypothesis 
+3 marks for correct algebra except for one error or omission 
+
+----- Question 5 ----- 
+2 marks for algorithm that solves the problem 
+3 marks for algorithm with correct linear runtime without explaining why 
+2 marks for algorithm with correct use of logarithmic space without explaining why or incorrect explanation 
+
+----- Question 6 ----- 
+1 mark for algorithm given in pseudocode 
+1 mark for specifying which sorting algorithm to use 
+2 marks for attempt but many mistakes in algorithm or completely omitting explanation algorithm does not return the correct solution the method of counting pairs used does not consider all ways to choose equal elements you did not explain the runtime of your algorithm or explanation is wrong 
+
+----- PairProduct ----- 
+20 marks linear runtime 
+
+----- totals ----- 
+8 out of 10 marks for Question 1 
+7 out of 10 marks for Question 2 
+9 out of 10 marks for Question 3 
+9 out of 10 marks for Question 4 
+7 out of 10 marks for Question 5 
+4 out of 10 marks for Question 6 
+20 out of 20 marks for PairProduct 
+
+------------------------- 64 out of 80 marks total
